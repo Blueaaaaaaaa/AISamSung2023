@@ -1,0 +1,10 @@
+# .gitignore
+*.zip
+
+*.ppt
+
+*.pptx
+
+*.pdf 
+
+*.pkl
